@@ -5,6 +5,5 @@
 <p align="center">
   I currently work with
   <br>
-  <img src="images/Sem Título-1 cópia.png" />
-  <img src="images/Sem Título-1 cópia.png" />
+  <img src="images/unity.png" />
 </p>
