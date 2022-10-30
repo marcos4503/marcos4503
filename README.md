@@ -9,4 +9,5 @@
   <img src="images/android-studio.png" />
   <img src="images/apache-netbeans.png" />
   <img src="images/javafx.png" />
+  <img src="images/vs-wpf.png" />
 </p>
