@@ -6,4 +6,5 @@
   I currently work with
   <br>
   <img src="images/unity.png" />
+  <img src="images/android-studio.png" />
 </p>
