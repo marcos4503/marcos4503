@@ -5,5 +5,5 @@
 <p align="center">
   I currently work with
   <br>
-  <img src="images/unity.png" />
+  <img src="images/unity2.png" />
 </p>
