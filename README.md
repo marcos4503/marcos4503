@@ -15,4 +15,9 @@
   <img src="images/c-sharp.png" />
   <img src="images/cpp.png" />
   <img src="images/java.png" />
+  <img src="images/html.png" />
+  <img src="images/css.png" />
+  <img src="images/javascript.png" />
+  <img src="images/php.png" />
+  <img src="images/sql.png" />
 </p>
