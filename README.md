@@ -10,6 +10,7 @@
   <img src="images/apache-netbeans.png" />
   <img src="images/javafx.png" />
   <img src="images/vs-wpf.png" />
+  <img src="images/mariadb-mysql.png" />
   <img src="images/design.png" />
   <br>
   <img src="images/c-sharp.png" />
