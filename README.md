@@ -16,7 +16,6 @@
   <img src="images/design.png" />
   <br>
   <img src="images/c-sharp.png" />
-  <img src="images/cpp.png" />
   <img src="images/java.png" />
   <img src="images/html.png" />
   <img src="images/css.png" />
