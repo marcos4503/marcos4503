@@ -12,6 +12,7 @@
   <img src="images/visual-studio.png" />
   <img src="images/wpf.png" />
   <img src="images/avalonia.png" />
+  <img src="images/lightmin-engine.png" />
   <img src="images/mariadb-mysql.png" />
   <img src="images/design.png" />
   <br>
