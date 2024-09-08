@@ -10,4 +10,4 @@ Welcome to my profile and portfolio, where I cultivate and maintain all my work 
 <br>
 
 <p style="color: #383838;">Languages ​​I Work With</p>
-<img src="images/lightmin.png" />
+<img src="images/csharp.png" /> <img src="images/java.png" /> <img src="images/html.png" /> <img src="images/css.png" /> <img src="images/javascript.png" /> <img src="images/php.png" /> <img src="images/sql.png" />
