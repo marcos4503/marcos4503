@@ -4,7 +4,6 @@ Welcome to my profile and portfolio, where I cultivate and maintain all my work 
 
 ## 
 <p style="color: #383838;">Tools I Work With</p>
-<br><img src="images/spacing.png" /><br>
 <img src="images/lightmin.png" />
 
 ## Languages ​​I Work With
