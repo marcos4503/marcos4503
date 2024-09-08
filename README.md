@@ -1,8 +1,10 @@
 <p align="center">
-  This is my portfolio. Here you will find some of my work as a Programmer, mainly my open source!
-  <br>
-  Feel free to take a look and thanks for your time! 🙂
+Welcome to my profile and portfolio, where I cultivate and maintain all my work as an Open Source Programmer. Feel free to take a look. It's a pleasure to have you here! 🙂
 </p>
+
+
+
+
 
 <p align="center">
   I currently work with
