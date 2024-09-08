@@ -3,7 +3,7 @@ Welcome to my profile and portfolio, where I cultivate and maintain all my work 
 </p>
 
 ## 
-<span style="color: #383838; font-size: 0.8em; line-height: 32px;">Tools I Work With</span><br>
+<span style="color: #383838; font-size: 0.8em;">Tools I Work With</span><br>
 <img src="images/lightmin.png" />
 
 <br>
