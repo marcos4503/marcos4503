@@ -15,4 +15,4 @@ Welcome to my profile and portfolio, where I cultivate and maintain all my work 
 
 ##
 
-<p align="center"><small><a href="https://gist.github.com/marcos4503">My Gists</a></small></p>
+<p align="center"><small><a href="https://gist.github.com/marcos4503" style="color: black; text-decoration: underline;text-decoration-style: dotted;">My Gists</a></small></p>
