@@ -12,3 +12,7 @@ Welcome to my profile and portfolio, where I cultivate and maintain all my work 
 <p style="color: #383838;">Languages ​​I Work With</p>
 
 <img src="images/csharp.png" /> <img src="images/java.png" /> <img src="images/html-xml.png" /> <img src="images/css.png" /> <img src="images/javascript.png" /> <img src="images/json.png" /> <img src="images/php.png" /> <img src="images/sql.png" />
+
+##
+
+<p align="center"><small><a href="https://gist.github.com/marcos4503">My Gists</a></small></p>
